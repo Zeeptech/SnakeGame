@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGame
 {
-
+    // The basics of the snake head, body and the food
 
     internal class Circle
     {

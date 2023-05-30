@@ -15,10 +15,10 @@ namespace TestGame
         public int Y { get; set; }
 
 
-        public Circle() { 
-        
-       
-        
+        public Circle() 
+        { 
+         X = 0;
+         Y = 0;
         }
 
     }
